@@ -1,1 +1,2 @@
-# English-French-Machine-Translation
+# English-French Machine Translation
+This project is a web-based English-to-French Machine Translation application developed using Python, TensorFlow, Keras, and Flask. It uses a deep learning sequence-to-sequence model to translate English text into French through a simple and user-friendly interface. The project demonstrates the practical application of Natural Language Processing (NLP) and Neural Machine Translation techniques.
